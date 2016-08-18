@@ -1,0 +1,173 @@
+[ 2016-08-12T17:14:58+08:00 ] ::1 /thinkphp/
+ERR: 无法加载控制器:Index
+
+[ 2016-08-12T17:15:21+08:00 ] ::1 /thinkphp/
+ERR: 无法加载控制器:Index
+
+[ 2016-08-12T17:16:00+08:00 ] ::1 /thinkphp/
+ERR: 无法加载控制器:Index
+
+[ 2016-08-12T17:22:01+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001446s ]
+SQL: SHOW COLUMNS FROM `thinkphp` [ RunTime:0.0020s ]
+SQL: INSERT INTO `thinkphp` (`name`,`email`) VALUES ('0','0') [ RunTime:0.0030s ]
+ERR: 无法加载控制器:Index
+
+[ 2016-08-12T17:23:55+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.038008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.038198s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001604s ]
+
+[ 2016-08-12T17:24:46+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+SQL: SHOW COLUMNS FROM `thinkphp` [ RunTime:0.0022s ]
+SQL: INSERT INTO `thinkphp` (`name`,`age`,`sex`,`email`) VALUES ('0','15','0','0') [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003243s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003476s ]
+
+[ 2016-08-12T17:25:02+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001678s ]
+SQL: SHOW COLUMNS FROM `thinkphp` [ RunTime:0.0015s ]
+SQL: INSERT INTO `thinkphp` (`name`,`age`,`sex`,`email`) VALUES ('0','15','0','0') [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002120s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002217s ]
+
+[ 2016-08-12T17:28:01+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001169s ]
+
+[ 2016-08-12T17:31:18+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001447s ]
+SQL: SHOW COLUMNS FROM `thinkphp` [ RunTime:0.0027s ]
+SQL: INSERT INTO `thinkphp` (`name`,`age`,`sex`,`email`) VALUES ('0','16','0','0') [ RunTime:0.0413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001933s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002176s ]
+
+[ 2016-08-12T17:45:17+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001362s ]
+SQL: SHOW COLUMNS FROM `thinkphp` [ RunTime:0.0017s ]
+SQL: INSERT INTO `thinkphp` (`name`,`age`,`sex`,`email`) VALUES ('ThinkPHP','16','female','ThinkPHP@gmail.com') [ RunTime:0.0383s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001556s ]
+
+[ 2016-08-12T17:50:13+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001591s ]
+SQL: SHOW COLUMNS FROM `thinkphp` [ RunTime:0.0022s ]
+SQL: INSERT INTO `thinkphp` (`name`,`age`,`sex`,`email`) VALUES ('ThinkPHP','16','female','ThinkPHP@gmail.com') [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002501s ]
+
+[ 2016-08-12T17:52:33+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001453s ]
+SQL: SHOW COLUMNS FROM `thinkphp` [ RunTime:0.0022s ]
+SQL: INSERT INTO `thinkphp` (`name`,`age`,`sex`,`email`) VALUES ('ThinkPHP','16','female','ThinkPHP@gmail.com') [ RunTime:0.0041s ]
+NOTIC: [8] Undefined variable: name /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001234s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001388s ]
+
+[ 2016-08-12T17:54:22+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001741s ]
+SQL: SHOW COLUMNS FROM `thinkphp` [ RunTime:0.0026s ]
+SQL: INSERT INTO `thinkphp` (`name`,`age`,`sex`,`email`) VALUES ('ThinkPHP','16','female','ThinkPHP@gmail.com') [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001145s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001242s ]
+
+[ 2016-08-12T17:55:53+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001624s ]
+SQL: SHOW COLUMNS FROM `thinkphp` [ RunTime:0.0033s ]
+NOTIC: [8] Undefined variable: data /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004825s ]
+
+[ 2016-08-12T17:57:08+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001213s ]
+SQL: SHOW COLUMNS FROM `thinkphp` [ RunTime:0.0014s ]
+NOTIC: [8] Undefined variable: data /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001218s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001315s ]
+
+[ 2016-08-12T17:57:55+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001226s ]
+SQL: SHOW COLUMNS FROM `thinkphp` [ RunTime:0.0016s ]
+NOTIC: [8] Undefined variable: data /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001441s ]
+

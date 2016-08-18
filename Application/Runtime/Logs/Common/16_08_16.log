@@ -1,0 +1,761 @@
+[ 2016-08-16T00:03:50+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001699s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:03:50+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:04:03+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:04:03+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002853s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:04:03+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:04:09+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000959s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:04:09+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:04:09+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:04:45+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:04:45+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:04:45+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:06:08+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:06:08+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001405s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:06:27+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001270s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:06:27+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:07:24+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:07:24+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:07:24+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003178s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:07:29+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:07:29+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001495s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:08:21+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001751s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:08:21+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:08:25+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:08:25+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:08:25+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:08:38+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001205s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:08:38+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:08:38+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:12:41+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:12:41+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002602s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:12:41+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009652s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:12:52+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:12:52+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:13:10+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:13:10+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001491s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:13:10+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:14:45+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:14:45+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:14:59+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:14:59+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001118s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:14:59+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:16:49+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:16:49+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:16:57+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:16:57+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:19:07+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004377s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:19:07+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:19:24+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:19:24+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:19:24+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:22:26+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:22:26+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:23:04+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:23:05+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001929s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:23:08+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:23:08+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:23:33+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:23:33+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:23:33+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:23:47+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000980s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:23:54+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:23:54+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T00:23:54+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:30:54+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:30:54+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:30:54+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:30:54+08:00 ] ::1 /thinkphp/index.php/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2016-08-16T22:31:35+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:31:35+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:40:39+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:40:39+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:40:39+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:43:45+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:43:45+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:44:00+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:44:00+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:44:00+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001318s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:48:03+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:48:03+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:48:03+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003467s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:49:12+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:49:12+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:49:12+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001581s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:49:24+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T22:49:24+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:03:10+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001006s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:03:10+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:03:23+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001619s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:03:23+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:03:23+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:05:01+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:05:01+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:05:01+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001637s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:05:09+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:05:09+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:05:09+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:06:09+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:06:09+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:06:09+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:06:29+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:06:29+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000925s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:06:29+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:24:24+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:24:24+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001576s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:24:24+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:24:40+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:24:40+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:24:55+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:24:55+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:24:55+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:30:08+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001052s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:30:08+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:30:08+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:30:24+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:30:24+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:31:25+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:31:25+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:31:44+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:31:44+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:31:44+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001348s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:31:53+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:31:53+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:31:53+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001156s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:40:42+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:40:42+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:51:40+08:00 ] ::1 /thinkphp/index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-08-16T23:51:40+08:00 ] ::1 /thinkphp/index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001180s ]
+ERR: 无法加载模块:Assets
+

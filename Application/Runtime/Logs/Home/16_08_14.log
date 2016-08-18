@@ -1,0 +1,51 @@
+[ 2016-08-14T00:46:33+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001253s ]
+SQL: SHOW COLUMNS FROM `thinkphp` [ RunTime:0.0584s ]
+NOTIC: [8] Undefined index: name /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: sex /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: age /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: eamil /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 10 行.
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `thinkphp` (`name`,`sex`,`age`,`email`) VALUES (NULL,NULL,NULL,NULL)
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `thinkphp` (`name`,`sex`,`age`,`email`) VALUES (NULL,NULL,NULL,NULL)
+
+[ 2016-08-14T00:50:24+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001959s ]
+SQL: SHOW COLUMNS FROM `thinkphp` [ RunTime:0.0021s ]
+NOTIC: [8] Undefined index: name /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: sex /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: age /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: eamil /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 10 行.
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `thinkphp` (`name`,`sex`,`age`,`email`) VALUES (NULL,NULL,NULL,NULL)
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `thinkphp` (`name`,`sex`,`age`,`email`) VALUES (NULL,NULL,NULL,NULL)
+
+[ 2016-08-14T00:50:24+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001298s ]
+SQL: SHOW COLUMNS FROM `thinkphp` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: name /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: sex /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: age /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: eamil /Applications/MAMP/htdocs/thinkphp/Application/Home/Controller/IndexController.class.php 第 10 行.
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `thinkphp` (`name`,`sex`,`age`,`email`) VALUES (NULL,NULL,NULL,NULL)
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `thinkphp` (`name`,`sex`,`age`,`email`) VALUES (NULL,NULL,NULL,NULL)
+
